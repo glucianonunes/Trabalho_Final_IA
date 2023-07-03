@@ -4,7 +4,7 @@ Trabalho final da disciplina de Inteligência Artificial do curso de Ciência da
 ## Autores:
 - Gabriel Luciano Nunes (gabriel.luciano@icomp.ufam.edu.br)
 - Gabriel da Silva Freitas (gabriel.freitas@icomp.ufam.edu.br)
-- Guilherme Silveira Duarte (guilherme.silveira@icomp)
+- Guilherme Silveira Duarte (guilherme.silveira@icomp.ufam.edu.br)
 - João Pedro Abensur Amoedo (pedro.abensur@icomp.ufam.edu.br)
 - Bruno Nascimento Maciel (bruno.nascimento@icomp.ufam.edu.br)
 
